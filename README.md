@@ -5,5 +5,5 @@
 
   <h3 align="center">Vai Chover</h3>
   
-  <p align="center">Aplicativo para ver a previsão do tempo</p>
+  <p align="center">Aplicativo para ver a previsão do tempo. 🌧️</p>
 </p>
